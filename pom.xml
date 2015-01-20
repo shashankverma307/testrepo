@@ -81,14 +81,5 @@
         <version>2.6.1</version>
       </plugin>
     </plugins>
-           <executions>
- <execution>
-           <id>auto-clean</id>
-            <phase>initialize</phase>
-            <goals>
-              <goal>clean</goal>
-            </goals>
-          </execution>
-        </executions>
  </build>
 </project>
