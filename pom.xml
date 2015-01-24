@@ -5,6 +5,14 @@
   <version>0.0.1-SNAPSHOT</version>
 <dependencies>
 <dependency>
+<<<<<<< HEAD
+=======
+<groupId>org.testng</groupId>
+<artifactId>testng</artifactId>
+<optional>true</optional>
+</dependency>
+<dependency>
+>>>>>>> fc461867ecdd62c9d21cb412b0af3453088a6618
 	<groupId>org.seleniumhq.selenium</groupId>
 	<artifactId>selenium-ie-driver</artifactId>
 	<version>2.44.0</version>

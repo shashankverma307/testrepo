@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<name>BookshelfQA</name>
 =======
 	<name>JavaTest</name>
 >>>>>>> 9f360904b22186b967ee68ebe7b9a0c8f296c895
+=======
+	<name>BookshelfQA</name>
+>>>>>>> fc461867ecdd62c9d21cb412b0af3453088a6618
 	<comment></comment>
 	<projects>
 	</projects>
@@ -15,6 +19,9 @@
 			</arguments>
 		</buildCommand>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> fc461867ecdd62c9d21cb412b0af3453088a6618
 		<buildCommand>
 			<name>org.eclipse.m2e.core.maven2Builder</name>
 			<arguments>
@@ -23,10 +30,13 @@
 	</buildSpec>
 	<natures>
 		<nature>org.eclipse.m2e.core.maven2Nature</nature>
+<<<<<<< HEAD
 =======
 	</buildSpec>
 	<natures>
 >>>>>>> 9f360904b22186b967ee68ebe7b9a0c8f296c895
+=======
+>>>>>>> fc461867ecdd62c9d21cb412b0af3453088a6618
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
 </projectDescription>
