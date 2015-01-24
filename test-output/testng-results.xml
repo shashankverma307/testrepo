@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="53467" started-at="2015-01-18T16:59:35Z" finished-at="2015-01-18T17:00:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="53467" started-at="2015-01-18T16:59:35Z" finished-at="2015-01-18T17:00:28Z">
+      <class name="CNowQA.CNowAutomation">
+        <test-method status="PASS" signature="BrowserOpen()[pri:0, instance:CNowQA.CNowAutomation@1ae369b7]" name="BrowserOpen" is-config="true" duration-ms="10668" started-at="2015-01-18T22:29:35Z" finished-at="2015-01-18T22:29:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserOpen -->
+        <test-method status="PASS" signature="LoginApplication()[pri:0, instance:CNowQA.CNowAutomation@1ae369b7]" name="LoginApplication" duration-ms="29987" started-at="2015-01-18T22:29:46Z" finished-at="2015-01-18T22:30:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginApplication -->
+        <test-method status="PASS" signature="SelectDropDown()[pri:0, instance:CNowQA.CNowAutomation@1ae369b7]" name="SelectDropDown" duration-ms="109" started-at="2015-01-18T22:30:16Z" finished-at="2015-01-18T22:30:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectDropDown -->
+        <test-method status="PASS" signature="Selectbook()[pri:0, instance:CNowQA.CNowAutomation@1ae369b7]" name="Selectbook" duration-ms="12687" started-at="2015-01-18T22:30:16Z" finished-at="2015-01-18T22:30:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Selectbook -->
+        <test-method status="PASS" signature="BrowserClose()[pri:0, instance:CNowQA.CNowAutomation@1ae369b7]" name="BrowserClose" is-config="true" duration-ms="0" started-at="2015-01-18T22:30:28Z" finished-at="2015-01-18T22:30:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserClose -->
+      </class> <!-- CNowQA.CNowAutomation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
