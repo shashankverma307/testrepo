@@ -3,6 +3,7 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
+<<<<<<< HEAD
       <class name="CNowQA.CNowAutomation">
         <methods>
           <include name="Selectbook"/>
@@ -10,6 +11,16 @@
           <include name="BrowserOpen"/>
         </methods>
       </class> <!-- CNowQA.CNowAutomation -->
+=======
+      <class name="BookshelfQA.VerifyActivity">
+        <methods>
+          <include name="VerifyHomePageTitle"/>
+          <include name="LoginApplication"/>
+          <include name="BrowserOpen"/>
+          <include name="VerifyActivityStatus"/>
+        </methods>
+      </class> <!-- BookshelfQA.VerifyActivity -->
+>>>>>>> 7dfcf8bc3747441c9e68f28026425897f1f162ca
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -5,11 +5,14 @@
   <version>0.0.1-SNAPSHOT</version>
 <dependencies>
 <dependency>
+<<<<<<< HEAD
 <groupId>org.testng</groupId>
 <artifactId>testng</artifactId>
 <optional>true</optional>
 </dependency>
 <dependency>
+=======
+>>>>>>> 7dfcf8bc3747441c9e68f28026425897f1f162ca
 	<groupId>org.seleniumhq.selenium</groupId>
 	<artifactId>selenium-ie-driver</artifactId>
 	<version>2.44.0</version>
@@ -82,6 +85,7 @@
             </configuration>
         </plugin>
       <plugin>
+<<<<<<< HEAD
         <artifactId>maven-compiler-plugin</artifactId>
         <version>3.1</version>
         <configuration>
@@ -92,3 +96,11 @@
     </plugins>
   </build>
 </project>
+=======
+        <artifactId>maven-clean-plugin</artifactId>
+        <version>2.6.1</version>
+      </plugin>
+    </plugins>
+ </build>
+</project>
+>>>>>>> 7dfcf8bc3747441c9e68f28026425897f1f162ca

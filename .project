@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>CNowQA</name>
+=======
+	<name>BookshelfQA</name>
+>>>>>>> 7dfcf8bc3747441c9e68f28026425897f1f162ca
 	<comment></comment>
 	<projects>
 	</projects>
@@ -17,7 +21,12 @@
 		</buildCommand>
 	</buildSpec>
 	<natures>
+<<<<<<< HEAD
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.m2e.core.maven2Nature</nature>
+=======
+		<nature>org.eclipse.m2e.core.maven2Nature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+>>>>>>> 7dfcf8bc3747441c9e68f28026425897f1f162ca
 	</natures>
 </projectDescription>

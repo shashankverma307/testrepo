@@ -3,7 +3,11 @@
 <suite name="Suite" parallel="none">
   <test name="Test">
     <classes>
+<<<<<<< HEAD
       <class name="CNowQA.CNowAutomation"/>
+=======
+      <class name="test.java.VerifyActivity"/>
+>>>>>>> 7dfcf8bc3747441c9e68f28026425897f1f162ca
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
